@@ -2,3 +2,9 @@ p {
     font-size: 200px;
     text-align: center;
 }
+
+#defaultCanvas0{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
